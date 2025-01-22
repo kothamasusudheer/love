@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1737544510,,"wq!"
+|2,0,1737545247,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -23,20 +23,38 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	>>>>>>> 289097efc06f85728a3bbe810f27ae89d3b1a0fb
+|3,1,1,1,1,0,1737545242,">>>>>>> 289097efc06f85728a3bbe810f27ae89d3b1a0fb"
+"2	LINE	0
+	=======
+|3,0,2,1,1,0,1737545240,"======="
+"3	LINE	0
+	<<<<<<< HEAD
+|3,0,3,1,1,0,1737545238,"<<<<<<< HEAD"
 
 # File marks:
-'0  1  14  ~/ram
-|4,48,1,14,1737544510,"~/ram"
+'0  2  0  ~/ram
+|4,48,2,0,1737545247,"~/ram"
+'1  1  14  ~/ram
+|4,49,1,14,1737544510,"~/ram"
+'2  1  14  ~/ram
+|4,50,1,14,1737544510,"~/ram"
 
 # Jumplist (newest first):
+-'  2  0  ~/ram
+|4,39,2,0,1737545247,"~/ram"
+-'  1  11  ~/ram
+|4,39,1,11,1737545235,"~/ram"
 -'  1  14  ~/ram
 |4,39,1,14,1737544510,"~/ram"
 
 # History of marks within files (newest to oldest):
 
 > ~/ram
-	*	1737544508	0
-	"	1	14
-	^	1	15
-	.	1	14
-	+	1	14
+	*	1737545244	0
+	"	2	0
+	.	3	0
+	+	1	0
+	+	2	0
+	+	3	0
